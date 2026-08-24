@@ -1,0 +1,14 @@
+#!/bin/sh
+if ! command -v gitleaks >/dev/null 2>&1; then
+  echo "gitleaks not found — skipping scan. Install: winget install --id Gitleaks.Gitleaks --exact"
+  exit 0
+fi
+gitleaks protect --staged --redact --verbose
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "Gitleaks found a possible secret in staged changes. Commit blocked."
+  echo "Remove/replace it, or if false positive, add a commented allowlist"
+  echo "entry in .gitleaks.toml, then retry."
+  exit 1
+fi
+exit 0
