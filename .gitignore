@@ -1,31 +1,36 @@
 # IntelliJ IDEA
 .idea/
-*.iws
 *.iml
 *.ipr
+*.iws
 out/
 
-# Java build output
+# Compiled class files
 *.class
-*.jar
-*.war
-*.ear
-target/
+
+# Build output
 build/
+target/
+bin/
 
 # Logs
 *.log
 
-# OS files
+# OS-specific
 .DS_Store
 Thumbs.db
 
-# Maven
+# Packaged artifacts
+*.jar
+*.war
+
+# Maven / Gradle (in case you ever add either)
 .mvn/
 mvnw
 mvnw.cmd
-
-# Gradle
 .gradle/
 gradlew
 gradlew.bat
+
+# Env/secrets
+.env
