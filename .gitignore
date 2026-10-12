@@ -34,3 +34,16 @@ gradlew.bat
 
 # Env/secrets
 .env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# Tool caches
+.enola/
