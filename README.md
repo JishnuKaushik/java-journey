@@ -16,13 +16,20 @@ Official CSL215 deliverables — graded assignments, lab submissions, homework t
 | [coursework/collections-lab-exercises/](coursework/collections-lab-exercises/) | Collections Framework lab exercises 1–5. |
 | [coursework/collections-lab-exercises-6-10/](coursework/collections-lab-exercises-6-10/) | Collections Framework lab exercises 6–10. |
 
+## Java Lab
+
+Graded work from the separate Java lab classes, kept apart from the CSL215 coursework.
+
+| Folder | Description |
+|---|---|
+| [JAVA-LAB/](JAVA-LAB/) | Lab problems (LeetCode format) — linked lists, stacks, queues, sorting, and design problems. |
+
 ## Practice
 
 Personal practice — workbook exercises, syntax practice, concept demos, LeetCode-style problems solved for fun. See [practice/README.md](practice/README.md) for details.
 
 | Folder | Description |
 |---|---|
-| [practice/leetcode/](practice/leetcode/) | LeetCode solutions — linked lists, stacks, queues, sorting, and design problems. |
 | [practice/brocode/](practice/brocode/) | Practice code following the Bro Code YouTube Java course. |
 
 Items awaiting a keep/discard decision live in [_review/](_review/) — see [_review/ORGANIZE_PLAN.md](_review/ORGANIZE_PLAN.md).

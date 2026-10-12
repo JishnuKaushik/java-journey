@@ -1,7 +1,7 @@
 # Repo organization plan — java-journey
 
 Status: APPROVED 2026-10-12 and executed on branch `chore/organize-repo` (created from `main` @ `c15f5ab`).
-Approved decisions: D1 `practice/` · D2 `JAVA-LAB/` → `practice/leetcode/` · D3 no lab numbers given, so only `lab01` was renamed and `student-class-exercise/`, `collections-lab-exercises/`, `collections-lab-exercises-6-10/` **keep their names** (the lab02–04 rows below were not applied) · D4 yes · D5 no (`.vscode/` stays untracked) · D6 yes.
+Approved decisions: D1 `practice/` · D2 `JAVA-LAB/` → `practice/leetcode/` (**reverted**: it's graded Java-lab-class work; restored to `JAVA-LAB/` per owner) · D3 no lab numbers given, so only `lab01` was renamed and `student-class-exercise/`, `collections-lab-exercises/`, `collections-lab-exercises-6-10/` **keep their names** (the lab02–04 rows below were not applied) · D4 yes · D5 no (`.vscode/` stays untracked) · D6 yes.
 Before-snapshot: `%TEMP%\repo_before.csv` (118 files, SHA256). Compile baseline: `%TEMP%\compile_baseline.csv`.
 
 ## Decisions needed before execution
