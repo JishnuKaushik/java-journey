@@ -4,9 +4,10 @@ Official CSL215 deliverables — graded assignments, lab submissions, and homewo
 
 | Folder | Description |
 |---|---|
-| [unit1-datatypes-operators-ifelse/](unit1-datatypes-operators-ifelse/) | Unit 1 assignment — data types, operators, and if-else, covering the 21 Aug 2026 class. |
-| [labwork-2026-07-28/](labwork-2026-07-28/) | Lab work from the 28 Jul 2026 class session. |
+| [assignment01_datatypes-operators-ifelse/](assignment01_datatypes-operators-ifelse/) | Unit 1 assignment — data types, operators, and if-else, covering the 21 Aug 2026 class. |
+| [assignment02_loops/](assignment02_loops/) | Unit 2 — loop constructs (for, while, do-while, enhanced for, nested loops), mostly via LeetCode problems mapped to each loop type. |
+| [lab01_2026-07-28/](lab01_2026-07-28/) | Lab work from the 28 Jul 2026 class session. |
 | [student-class-exercise/](student-class-exercise/) | `Student` class exercise — modeling a student record with fields, constructor, and a display method. |
 | [collections-lab-exercises/](collections-lab-exercises/) | Collections Framework lab exercises 1–5 — ArrayList, List sum/max via `Collections`, order-preserving dedup, HashMap char frequency, and Comparator sorting. |
 | [collections-lab-exercises-6-10/](collections-lab-exercises-6-10/) | Collections Framework lab exercises 6–10 (assigned 1 Oct 2026) — Queue FIFO processing, Deque as a stack, TreeMap sorted entries, Set union/intersection, and filtering + sorting a HashMap by value. |
-| [asignment-3/](asignment-3/Assignment3_AssetInventoryManager/Assignment3_AssetInventoryManager/) | Assignment 3 — Asset Inventory Manager: abstract `Asset` hierarchy with a generic `AssetManager<T extends Asset>` built on Collections, Streams, and a PASS/FAIL test harness. |
+| [assignment03_asset-inventory-manager/](assignment03_asset-inventory-manager/) | Assignment 3 — Asset Inventory Manager: abstract `Asset` hierarchy with a generic `AssetManager<T extends Asset>` built on Collections, Streams, and a PASS/FAIL test harness. |

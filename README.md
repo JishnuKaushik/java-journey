@@ -8,18 +8,24 @@ Official CSL215 deliverables — graded assignments, lab submissions, homework t
 
 | Folder | Description |
 |---|---|
-| [coursework/unit1-datatypes-operators-ifelse/](coursework/unit1-datatypes-operators-ifelse/) | Unit 1 assignment — data types, operators, and if-else (21 Aug 2026 class). |
-| [coursework/labwork-2026-07-28/](coursework/labwork-2026-07-28/) | Lab work from the 28 Jul 2026 class session. |
+| [coursework/assignment01_datatypes-operators-ifelse/](coursework/assignment01_datatypes-operators-ifelse/) | Unit 1 assignment — data types, operators, and if-else (21 Aug 2026 class). |
+| [coursework/assignment02_loops/](coursework/assignment02_loops/) | Unit 2 — loop constructs (for, while, do-while, enhanced for, nested). |
+| [coursework/assignment03_asset-inventory-manager/](coursework/assignment03_asset-inventory-manager/) | Assignment 3 — Asset Inventory Manager (Collections & Generics). |
+| [coursework/lab01_2026-07-28/](coursework/lab01_2026-07-28/) | Lab work from the 28 Jul 2026 class session. |
 | [coursework/student-class-exercise/](coursework/student-class-exercise/) | `Student` class exercise. |
+| [coursework/collections-lab-exercises/](coursework/collections-lab-exercises/) | Collections Framework lab exercises 1–5. |
+| [coursework/collections-lab-exercises-6-10/](coursework/collections-lab-exercises-6-10/) | Collections Framework lab exercises 6–10. |
 
-## Learning
+## Practice
 
-Personal practice — workbook exercises, syntax practice, concept demos, LeetCode-style problems solved for fun. See [learning/README.md](learning/README.md) for details.
+Personal practice — workbook exercises, syntax practice, concept demos, LeetCode-style problems solved for fun. See [practice/README.md](practice/README.md) for details.
 
 | Folder | Description |
 |---|---|
-| [learning/brocode/](learning/brocode/) | Practice code following the Bro Code YouTube Java course. |
-| [learning/scratch/](learning/scratch/) | Misc leftover/template files with no other home yet. |
+| [practice/leetcode/](practice/leetcode/) | LeetCode solutions — linked lists, stacks, queues, sorting, and design problems. |
+| [practice/brocode/](practice/brocode/) | Practice code following the Bro Code YouTube Java course. |
+
+Items awaiting a keep/discard decision live in [_review/](_review/) — see [_review/ORGANIZE_PLAN.md](_review/ORGANIZE_PLAN.md).
 
 ## Setup
 
